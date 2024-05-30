@@ -1,0 +1,31 @@
+{
+  "analysisTools": [
+    {
+      "name": "AggregatePoints",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false
+    },
+    {
+      "name": "CalculateDensity",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false
+    },
+    {
+      "name": "ChooseBestFacilities",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false
+    }
+  ]
+}
